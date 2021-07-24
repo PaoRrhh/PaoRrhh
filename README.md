@@ -3,7 +3,7 @@
 
 💞️  Centrada en usar mis conocimientos y habilidades para acompañar a talentos y organizaciones en su desarrollo y crecimiento profesional
 
-Skills: Algunos de los perfiles buscados son: Desarrolladores Java , .Net, Python, Ruby and Rails, Fullstack, Front-end , Back-end. También QA Manual y QA Automation. Desarrolladores Mobile , Android e iOS. DevOps , entre otros. Perfiles con y sin inglés para Argentina y Latam
+Skills: Algunos de los perfiles buscados son: Desarrolladores Java , .Net, Python, Ruby and Rails, Fullstack, Front-end , Back-end. También QA Manual y QA Automation. Desarrolladores Mobile , Android e iOS. DevOps , entre otros. Perfiles con y sin inglés en Argentina y Latam 🇦🇷🇲🇽🇨🇴🇵🇾🇺🇾
 
 - 🔭 I’m currently working on DataArt [link](https://www.dataart.com.ar/company) y en Kingdom [link](https://somoskingdom.com/)
 
