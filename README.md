@@ -8,11 +8,11 @@ Perfiles con y sin inglés en Argentina y Latam 🇦🇷 🇲🇽 🇨🇴 🇵�
 
  I’m currently working on 🐥 DataArt [link](https://www.dataart.com.ar/company) y en Kingdom [link](https://somoskingdom.com/)
 
-💬 Ask me about los beneficios que ofrecemos en DataArt [link](https://www.dataart.com.ar/career/career-in-dataart/) y las propuestas que tenemos en Kingdom [link](https://somoskingdom.com/careers/)
+💬  Conoce los beneficios que ofrecemos en DataArt [link](https://www.dataart.com.ar/career/career-in-dataart/) y las propuestas que tenemos en Kingdom [link](https://somoskingdom.com/careers/)
 
-🌱 I’m currently learning y aplicando metodologías ágiles, experiencia del candidato y técnicas de entrevista, entre otros, al área de Talento 
+🌱 Estudiando y aplicando metodologías ágiles, experiencia del candidato y técnicas de entrevista, entre otros, al área de Talento 
  
-📫  How to reach me: paolagonzalez.rrhh@gmail.com 
+📫  Encontrame en Linkedin, Twitter, Instagram o por correo: paolagonzalez.rrhh@gmail.com 
 
 😄 Pronouns: Pao / Piolin  
 
