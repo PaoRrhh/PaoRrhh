@@ -1,4 +1,5 @@
-<h1 align = "center"> Hola 👋🏻 Soy Paola Gonzalez 👩🏻 </h1>
+<h1 align = "center"> Hola 👋🏻 
+ Soy Paola Gonzalez 👩🏻 </h1>
 <h3 align = "center"> Technical Recruiter </h3>
 
 Me encanta acompañar a los candidatos generando una hermosa experiencia 
