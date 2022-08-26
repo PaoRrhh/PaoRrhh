@@ -1,10 +1,11 @@
 <h1 align = "center"> Hola 👋🏻 Soy Paola Gonzalez 👩🏻 </h1>
-<h3 align = "center"> Talent Sourcer - IT Recruiter </h3>
+<h3 align = "center"> Technical Recruiter </h3>
 
-  Centrada en usar mis conocimientos y habilidades para acompañar a talentos y organizaciones en su desarrollo y crecimiento profesional
+Me encanta acompañar a los candidatos generando una hermosa experiencia 
 
-Algunos de los perfiles buscados son: Desarrolladores Java , .Net, Python, Ruby and Rails, Fullstack, Front-end , Back-end. También QA Manual y QA Automation. Desarrolladores Mobile , Android e iOS. DevOps , entre otros. 
-Perfiles con y sin inglés en Latam 🇦🇷 🇲🇽 🇨🇴 🇵🇾  🇺🇾
+Algunos de los perfiles buscados son: Desarrolladores Java , .Net, Python, Ruby and Rails, Fullstack, Front-end , Back-end. También QA Manual y QA Automation. Desarrolladores Mobile , Android e iOS,  DevOps (de todas las nubes), entre otros. 
+Perfiles con en Latam 🇦🇷 🇲🇽 🇨🇴 🇵🇾  🇺🇾 
+No te pierdas trabajar con un equipo dinámico con personas de todos lados del mundo 🌎🌍
 
  I’m currently working on 🐥 DataArt [link](https://www.dataart.com.ar/company)
 
@@ -14,7 +15,7 @@ Perfiles con y sin inglés en Latam 🇦🇷 🇲🇽 🇨🇴 🇵🇾  🇺�
  
 📫  Encontrame en Linkedin, Twitter, Instagram o por correo: paolagonzalez.rrhh@gmail.com 
 
-😄 Pronouns: Pao / Piolin  
+😄 Pronouns: Pao / Piolin 
 
 Fanatica de las Comedy Series como Friends, The Good Place, How I Met Your Mother, Modern Family, y obviamente, Malcolm in the middle
 
